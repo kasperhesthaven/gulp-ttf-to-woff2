@@ -4,7 +4,7 @@ Gulp plugin to convert TTF(TrueType font) files to WOFF2 using [ttf2woff2](https
 
 ## Install
 
-`npm i gulp-ttf-to-woff2`
+`npm i gulp-ttftowoff2`
 
 ## Usage
 
