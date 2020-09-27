@@ -3,7 +3,7 @@ const PluginError = require("plugin-error");
 const Transform = require("stream").Transform;
 const path = require("path");
 
-const PLUGIN_NAME = "gulp-ttf-to-woff2";
+const PLUGIN_NAME = "gulp-ttftowoff2";
 
 module.exports = (options = {}) => {
   return new Transform({
