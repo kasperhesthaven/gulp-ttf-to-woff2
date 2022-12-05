@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "plugin-error": "^1.0.1",
-    "ttf2woff2": "^4.0.1"
+    "ttf2woff2": "^5.0.0"
   },
   "devDependencies": {
     "mocha": "^9.0.0",
